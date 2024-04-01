@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,iptvtools_17
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
+#EXTINF:-1,iptvtools_21
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1190719083_b1896000.m3u8
+#EXTINF:-1,iptvtools_23
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
+#EXTINF:-1,iptvtools_25
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
+#EXTINF:-1,iptvtools_29
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_58
+https://miro.medium.com/max/1000/1*CnA-4JekfxeG_RBpvtwvAw.png

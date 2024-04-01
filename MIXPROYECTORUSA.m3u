@@ -1,0 +1,192 @@
+#EXTM3U
+#EXTINF:0 tipo="stream" channelId="3765", Golden Plus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:0 tipo="transmisión" channelId="1330", HBO HD
+http://45.166.92.22:58001/play/a03s/index.m3u8
+#EXTINF:0 tipo="transmisión" canalId="935", HBO2 HD
+http://45.166.92.22:58001/play/a03t/index.m3u8
+#EXTINF:0 tipo="stream" channelId="2585", HBO Plus HD
+http://45.166.92.22:58001/play/a03u/index.m3u8
+#EXTINF:0 tipo="stream" channelId="2587", HBO XTREME
+http://45.166.92.22:58001/play/a03w/index.m3u8
+#EXTINF:0 tipo="stream" channelId="3761", Películas FX HD
+http://45.166.92.22:58001/play/a00u/index.m3u8
+#EXTINF:0 tipo="transmisión" channelId="1304", FX HD
+http://45.166.92.22:58001/play/a00s/index.m3u8
+#EXTINF:0 tipo="stream" channelId="2503", A&E HD
+http://45.166.92.22:58001/play/a00p/index.m3u8
+#EXTINF:0 tipo="stream" canalId="284", CINECANAL HD
+http://45.166.92.22:58001/play/a04b/index.m3u8
+#EXTINF:0 tipo="stream" channelId="-1", DISCOVERY THEATHER HD
+http://45.166.92.22:58001/play/a014/index.m3u8
+#EXTINF:0 tipo="stream" channelId="-1", E! Entretenimiento HD
+http://45.166.92.22:58001/play/a00n/index.m3u8
+#EXTINF:0 type="stream" channelId="2724", Hogar y salud HD
+http://45.166.92.22:58001/play/a015/index.m3u8
+#EXTINF:0 tipo="transmisión" channelId="-1", Paramount HD
+http://45.166.92.22:58001/play/a01l/index.m3u8
+#EXTINF:0 tipo="transmisión" canalId="2896", ESPACIO HD
+http://45.166.92.22:58001/play/a02o/index.m3u8
+#EXTINF:0 tipo="stream" channelId="-1", CANAL ESTRELLA HD
+http://45.166.92.22:58001/play/a048/index.m3u8
+#EXTINF:0 tipo="stream" channelId="2147", Estudio Universal HD
+http://45.166.92.22:58001/play/a00k/index.m3u8
+#EXTINF:0 tipo="flujo" canalId="895", TCM
+http://45.166.92.22:58001/play/a03l/index.m3u8
+#EXTINF:0 tipo="flujo" canalId="67", TLC
+http://45.166.92.22:58001/play/a04o/index.m3u8
+#EXTINF:0 tipo="transmisión" canalId="2900", TNT HD
+http://45.166.92.22:58001/play/a013/index.m3u8
+#EXTINF:0 tipo="stream" channelId="3797", Serie TNT HD
+http://45.166.92.22:58001/play/a01m/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Cine universal HD
+http://45.166.92.22:58001/play/a01t/index.m3u8
+#EXTINF:0 tipo="transmisión" canalId="-1", Univision HD
+http://45.166.92.22:58001/play/a01r/index.m3u8
+#EXTINF:0 tipo="transmisión" channelId="2903", WARNER HD
+http://45.166.92.22:58001/play/a049/index.m3u8
+#EXTINF:0 tipo="stream" channelId="1954", LAS ESTRELLAS
+http://204.199.120.34:16123/play/ch44
+#EXTINF:0 tipo="stream" channelId="1310", CANAL SOL
+http://204.199.120.34:16123/play/ch48
+#EXTINF:0 tipo="transmisión" channelId="2501", AMC HD
+http://45.166.92.22:58001/play/a00q/index.m3u8
+#EXTINF:0 tipo="flujo" canalId="2246", AXN HD
+http://45.166.92.22:58001/play/a02n/index.m3u8
+#EXTINF:0 tipo="stream" channelId="-1", CARTOON NT HD
+http://45.166.92.22:58001/play/a03y/index.m3u8
+#EXTINF:0 tipo="stream" channelId="64", CineCanal
+http://45.166.92.22:58001/play/a02f/index.m3u8
+#EXTINF:0 tipo="transmisión" channelId="-1", DHE HD
+http://45.166.92.22:58001/play/a00v/index.m3u8
+#EXTINF:0 tipo="stream" channelId="341", Discovery Channel HD
+http://45.166.92.22:58001/play/a01n/index.m3u8
+#EXTINF:0 tipo="transmisión" canalId="2720", DISNEY HD
+http://45.166.92.22:58001/play/a04q/index.m3u8
+#EXTINF:0 type="stream" channelId="2620", Discovery Hogar y salud
+http://45.166.92.22:58001/play/a027/index.m3u8
+#EXTINF:0 tipo="stream" channelId="2890", Discovery World HD
+http://45.166.92.22:58001/play/a01p/index.m3u8
+#EXTINF:0 tipo="transmisión" channelId="2891", Fox Sports HD
+http://45.166.92.22:58001/play/a02m/index.m3u8
+#EXTINF:0 tipo="stream" channelId="1202", HISTORIA 2 HD
+http://45.166.92.22:58001/play/a04x/index.m3u8
+#EXTINF:0 tipo="stream" channelId="-1", ¡HOLA! televisión de alta definición
+http://45.166.92.22:58001/play/a016/index.m3u8
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37777
+#EXTINF:0 type="favorites" channelId="-1" group="24/7 INFANTIL" logo="https://1.bp.blogspot.com/-ZguhiFc5J5U/Xj4wCHI0RjI/AAAAAAAABQQ/NobtNB6bWDEneCyA_gtnp_YMiwttk_h_QCLcBGAsYHQ/s200/Tom%2By%2BJerry.png", 24/7 Tom and Jerry The Classic  (e)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37859
+#EXTINF:0 type="favorites" channelId="-1" group="CANALES-ENTRETENIMIENTO" logo="https://1.bp.blogspot.com/-U60Pby9cnqI/Xw8ovhvpzuI/AAAAAAAAAWY/iU_CaOeTilQPEcKEGo7-rJ0MbA_sDb8SgCLcBGAsYHQ/w200-h200/SIGNATURE.png", CINE - HBO Signature (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/52879
+#EXTINF:0 type="favorites" channelId="-1" group="CANALES-ENTRETENIMIENTO" logo="https://lh3.googleusercontent.com/-yvtMpSceSWI/Yf9U8n6XN7I/AAAAAAAADGQ/HQ7NWPvhrwkmM8sQxwUZ3kRyu1u0iyIOgCNcBGAsYHQ/w200-h200/1644123375803213-1.png", CINE - STAR Channel (M)(1080) [Dual Audio]
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1454
+#EXTINF:0 type="favorites" channelId="-1" group="CANALES-ENTRETENIMIENTO" logo="https://1.bp.blogspot.com/-Mm4RcdZlydc/XatpNZ2eSDI/AAAAAAAAAek/B1kOZW_TEv0GakL-m6tUYEmi592FBiSEQCLcBGAsYHQ/s200/52.png", CINE - Studio Universal S (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26905
+#EXTINF:0 type="favorites" channelId="-1" group="CANALES-ENTRETENIMIENTO" logo="https://1.bp.blogspot.com/-gvPayEmPc-0/XaqYSotqp-I/AAAAAAAAAY4/4YmafnkAwdkT2YrPdajCmQ-5WJj4en0-wCLcBGAsYHQ/s200/26.png", CINE - TNT (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26926
+#EXTINF:0 type="favorites" channelId="-1" group="CANALES-ENTRETENIMIENTO" logo="https://1.bp.blogspot.com/-RU1QI0P40Bk/XaqXTmeUMsI/AAAAAAAAAYo/mKi7kYCtzykrjx76Ft-YMnk17IS3OdK0QCLcBGAsYHQ/s200/25.png", CINE - TNT Series (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26907
+#EXTINF:0 type="favorites" channelId="3783" name="RCN (TV)(1080)" group="COLOMBIA" logo="https://1.bp.blogspot.com/-vf2zeK5YmVU/XbDQxAqJTcI/AAAAAAAAAok/zLMf6Az3QDMWdLZqgmVSEk-K9zwh31GDACLcBGAsYHQ/s200/16.png", COL-RCN (TV)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/59852
+#EXTINF:0 type="favorites" channelId="-1" group="CANALES-DOCUMENTALES" logo="https://1.bp.blogspot.com/-FmcbBWBcW04/XzWYaAuXQeI/AAAAAAAABCE/Sxqhgw-oCiEDD8qSiWZZnw_c9BVKOKFVwCLcBGAsYHQ/w200-h200/153%2BAnimal%2BPlanet.png", DOC-Animal Planet (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1398
+#EXTINF:0 type="favorites" channelId="-1" group="CANALES-DOCUMENTALES" logo="https://logos.xbots.com.mx/41063.png", DOC-History 2 (L)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177628
+#EXTINF:0 type="favorites" channelId="-1" group="ESPAÑA" logo="https://1.bp.blogspot.com/-mrfnJ67Yz4U/XyNd_v8a9GI/AAAAAAAAAmE/jW-3HjaSjF0ReAuf5yzaWExOzB_0hCU5ACLcBGAsYHQ/w200-h200/68%2BCalle13.png", ESP - Calle 13 (TV)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117219
+#EXTINF:0 type="favorites" channelId="-1" group="ESPAÑA" logo="https://1.bp.blogspot.com/-8rgq4MBm_HM/XyNd3UKB6II/AAAAAAAAAlE/0xXVPAKDLMU7Ss6o3MJ_XpUpU4oPp8MzwCLcBGAsYHQ/w200-h200/52%2Btcm.png", ESP - TCM (TV)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117250
+#EXTINF:0 type="favorites" channelId="3727" name="Az Cinema (M)(1080)" group="MEXICO" logo="https://1.bp.blogspot.com/--fcykTIfCuM/Xm5wXqrCohI/AAAAAAAABgo/SG1Fhjw4qfwahRTffNn7aqsPxHr7h8YMwCLcBGAsYHQ/s200/19.png", MEX-Az Cinema (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26963
+#EXTINF:0 type="favorites" channelId="-1" name="MOVISTAR PLATINO FHD" group="ES" country="es", MOVISTAR PLATINO FHD
+http://darg.site:2082/mayerdick/qqzHdszhP9SR/375661
+#EXTINF:0 type="favorites" channelId="-1" group="XXX" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", XXX: babes
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/296234
+#EXTINF:0 type="favorites" channelId="-1" group="24/7 SERIES" logo="https://1.bp.blogspot.com/-0BZND3KsLwI/X3Vgu9FAWiI/AAAAAAAABvQ/J0UN_UzEzSYRFRJpZcunW54tK5hRrFqogCLcBGAsYHQ/w200-h200/6%2Bmillobes.png", 24/7 El hombre de los seis millones de dólares (e)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/63335
+#EXTINF:0 type="favorites" channelId="-1" group="24/7 INFANTIL" logo="https://1.bp.blogspot.com/--x6W1W4rCcU/XucgdJMiE5I/AAAAAAAACHQ/HA5zdcKlHx4EC0nVkZK4OamfoKnD52_fACLcBGAsYHQ/s200/icarly.png", 24/7 iCarly  (e)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37769
+#EXTINF:0 type="favorites" channelId="-1" group="24/7 SERIES" logo="https://1.bp.blogspot.com/-q5PwmWJPpOQ/Xris97LioOI/AAAAAAAAB7c/DlpOHv47WnITsSMH_NY-ROrtvklWLU5-QCLcBGAsYHQ/s200/La%2Bcasa%2Bde%2Bpapel.png", 24/7 La Casa de Papel (e)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37774
+#EXTINF:0 type="favorites" channelId="-1" group="24/7 SERIES" logo="https://1.bp.blogspot.com/-xelINuXR9qI/XsmqqMafdJI/AAAAAAAAAHI/ZIFaSYUxjrovr7ruNN9JvkeTipJcN0vdwCK4BGAsYHg/munster.png", 24/7 La Familia Monster (e)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37787
+#EXTINF:0 type="favorites" channelId="-1" group="XXX" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", XXX: Japan HDV
+http://aanax.com:8080/stadnik/6a627b52a9/297792
+#EXTINF:0 type="favorites" channelId="-1" group="REP DOMINICANA" logo="https://i2.paste.pics/07307891d4155ebc2537e54f1407ca1f.png", MEGA CINE TV
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CINE Y SERIES" logo="https://lh3.googleusercontent.com/toW8xWKbpS-28By8XvguQOg6oG0tun1oXmvmZRnY-TUiHmgsWdHeBNfoZtlbiAbdJTA", TELERED
+http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
+#EXTINF:0 type="favoritos" channelId="-1" group="JOVENES Y ADULTOS" logo="https://i.imgur.com/YiSumNU.png", EnerGeek Fanpop
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+#EXTINF:0 type="favoritos" channelId="-1" name="LAT USA | UNIVISION HOUSTON" group="Latinos | USA", LAT USA | UNIVISIÓN HOUSTON
+http://elmonkey.us:25461/Victor/Victor/123062
+#EXTINF:0 type="favoritos" channelId="1954" group="Bics Extra", LAS ESTRELLAS
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:0 tipo="favoritos" channelId="-1", ID de descubrimiento HD
+http://45.166.92.22:58001/play/a01s/index.m3u8
+#EXTINF:0 type="favoritos" channelId="-1" group="CANALES-ENTRETENIMIENTO" logo="https://1.bp.blogspot.com/-ZvhVOTsSTzg/XaokZ4XKSPI/AAAAAAAAAWI/MsjCS3r3rQop2YtmW8uC0_gyZU5WsAgqACLcBGAsYHQ/s200/4. png", CINE - CineCanal (PM)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26903
+#EXTINF:0 type="favoritos" channelId="-1" group="CANALES-ENTRETENIMIENTO" logo="https://1.bp.blogspot.com/-EGNc3XiW2mg/Xaoka4Z2TQI/AAAAAAAAAWU/WzeyBpAFtHw2hkqTpQi6FZCazB0eVIlHACLcBGAsYHQ/s200/7. png", CINE - Comedy Central (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26929
+#EXTINF:0 type="favoritos" channelId="-1" group="CANALES-ENTRETENIMIENTO" logo="https://1.bp.blogspot.com/-beLeA0PDR3M/XatLcKHkHhI/AAAAAAAAAcY/qDSVdbA5CVwlSBEJV_XDE08auVkEZleBwCLcBGAsYHQ/s200/45. png", CINE - Distrito Comedia (M)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1451
+#EXTINF:0 type="favoritos" channelId="-1" group="CANALES-ENTRETENIMIENTO" logo="https://1.bp.blogspot.com/-8Sj9qIuwrcY/Xbft9AfFG8I/AAAAAAAAAtE/IsyxPWzh5n0sYocYCV7ebne0xlAeANvNgCLcBGAsYHQ/s200/54. png", CINE - E! (PM)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1880
+#EXTINF:0 type="favoritos" channelId="-1" group="CANALES-ENTRETENIMIENTO" logo="https://1.bp.blogspot.com/-7LnO12UdM74/XkOMWms5SLI/AAAAAAAABWw/1_TuyGdHKgUvadJu2umfY-JB3zGZvdzqQCLcBGAsYHQ/s200/ 68.png", CINE - Red de Alimentos (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26909
+#EXTINF:0 type="favoritos" channelId="-1" group="CANALES-ENTRETENIMIENTO" logo="https://1.bp.blogspot.com/-oN7wX127j3Q/Xw8lq7qqpSI/AAAAAAAAAWA/gTwoVU0sXXsbMIDKd7I6ojgR-28dars6ACLcBGAsYHQ/w200- h200/hbomundi.png", CINE - HBO Mundi (L)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/52878
+#EXTINF:0 type="favoritos" channelId="-1" group="CANALES-ENTRETENIMIENTO" logo="https://1.bp.blogspot.com/-U60Pby9cnqI/Xw8ovhvpzuI/AAAAAAAAAWY/iU_CaOeTilQPEcKEGo7-rJ0MbA_sDb8SgCLcBGAsYHQ/w200- h200/SIGNATURE.png", CINE - Firma HBO (M)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/53240
+#EXTINF:0 type="favoritos" channelId="-1" group="CANALES-ENTRETENIMIENTO" logo="https://1.bp.blogspot.com/-hN1LIpeBxmo/XatGnSfXE2I/AAAAAAAAAbY/oEcqLYx31rQATVggy6N5l3sK2D6BMQ1MgCLcBGAsYHQ/s200/40. png", CINE - Canal Paramount (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1486
+#EXTINF:0 type="favoritos" channelId="-1" group="CANALES-ENTRETENIMIENTO" logo="https://1.bp.blogspot.com/-iMAi_8FJwwQ/XatGmhKYmbI/AAAAAAAAAbQ/0z9DR3Ur5KYfsAzeHVCogx2jNUubeChrACLcBGAsYHQ/s200/37. png", CINE - Vida útil (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26914
+#EXTINF:0 type="favoritos" channelId="-1" group="CANALES-ENTRETENIMIENTO" logo="https://1.bp.blogspot.com/-6wvhPq5IaU0/XatGn62vaSI/AAAAAAAAAbg/Ag7mkwAVGCM4eBE7PoLyqAUwkyHiFFAIwCLcBGAsYHQ/s200/42. png", CINE - Espacio (e)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/74409
+#EXTINF:0 type="favoritos" channelId="-1" group="CANALES-ENTRETENIMIENTO" logo="https://1.bp.blogspot.com/-GuBKhe6BjNU/XaqbhYUEY9I/AAAAAAAAAZU/GoNTclP8BQYz3LWW1FRbP0e_zV7-V_bNACLcBGAsYHQ/s200/ 28.png", CINE - TBS (X)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1499
+#EXTINF:0 type="favoritos" channelId="-1" group="CANALES-ENTRETENIMIENTO" logo="https://1.bp.blogspot.com/-RU1QI0P40Bk/XaqXTmeUMsI/AAAAAAAAAYo/mKi7kYCtzykrjx76Ft-YMnk17IS3OdK0QCLcBGAsYHQ/s200/ 25.png", CINE - Serie TNT (PM)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1042
+#EXTINF:0 type="favoritos" channelId="-1" group="CANALES-ENTRETENIMIENTO" logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNG/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/16443 69412566727- 2.png", CINE - Universal Cinema (M)(1080) [Audio dual]
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1464
+#EXTINF:0 type="favoritos" channelId="-1" group="CANALES-ENTRETENIMIENTO" logo="https://lh3.googleusercontent.com/-LG2ri7fQLfc/YgMWEH-ycuI/AAAAAAAADNo/ASe9pUx6JxMEHmZuDP8fnteyPsU8ZBGigCNcBGAsYHQ/w200-h200/ 1644369421908968-0.png", CINE - Universal Premier (M)(1080) [Audio dual]
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26738
+#EXTINF:0 type="favoritos" channelId="-1" group="CANALES-DOCUMENTALES" logo="https://logos.xbots.com.mx/Animal_Planet.png", DOC-Animal Planet (L)( 1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177625
+#EXTINF:0 type="favoritos" channelId="-1" group="CANALES-DOCUMENTALES" logo="https://logos.xbots.com.mx/41001.png", DOC-Canal Descubrimiento (L)( 1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177636
+#EXTINF:0 type="favoritos" channelId="-1" group="CANALES-DOCUMENTALES" logo="https://1.bp.blogspot.com/-3wjrLsfsfCo/XaukfXyPOwI/AAAAAAAAAgI/ActiBvKEJj8SyoNqq-5A6ErNez2UGZ9LACLcBGAsYHQ/s200/ 3.png", DOC-Canal de descubrimiento (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26891
+#EXTINF:0 type="favoritos" channelId="-1" group="CANALES-DOCUMENTALES" logo="https://1.bp.blogspot.com/-krRxJeizvDU/XzQdUcia0SI/AAAAAAAAA0s/ouYB4v2X10EiAsYCQJ2LtajrGEBUSfaagCLcBGAsYHQ/w200-h200/ 112%2BHgtv.png", DOC-Descubrimiento HGTV (TV)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1416
+#EXTINF:0 type="favoritos" channelId="-1" group="CANALES-DOCUMENTALES" logo="https://1.bp.blogspot.com/-xSsX0Ia8wF4/XaukdVsLyAI/AAAAAAAAAfo/k34jiOUjQKYMLSGBsGCOIR2ZZTKD7tkhQCLcBGAsYHQ/s200/12. png", DOC-H2 (PM)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1061
+#EXTINF:0 tipo="favoritos" canalId="-1" nombre="TVC UIO (PM)(1080)" grupo="ECUADOR" logo="https://i.postimg.cc/ryDRN9Yw/proyectox4-22 .png", ECU-TVC UIO (PM)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/180318
+#EXTINF:0 type="favoritos" channelId="-1" group="ESPAÑA" logo="https://1.bp.blogspot.com/-Afvn3kCU-EU/XxZrlB-6q4I/AAAAAAAAAgg/PH9UFG7JVv8N0ng2Tl_tguLePuxbsKsAgCLcBGAsYHQ/w200- h200/22%2BAntena%2B3.png", ESP - Antena 3 (TV)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117159
+#EXTINF:0 type="favoritos" channelId="3819" name="Univision Puerto Rico (TV)(720)" group="PUERTO RICO" logo="https://1.bp.blogspot.com/-Fybdl5LVgNQ /X2p5PfDKmrI/AAAAAAAABdM/u6xSHbCbRyYoLuI9mp-9W7gHWvDs7SjLACLcBGAsYHQ/w200-h200/Univision%2BPuerto%2BRico.png", PR-Univision Puerto Rico (TV)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/107185
+#EXTINF:0 type="favoritos" channelId="-1" group="REPUBLICA DOMINICANA" logo="https://1.bp.blogspot.com/-xavji18xK0I/X3PN96-pW8I/AAAAAAAABt8/k3MD6mhluY8_sZFnxmgI2qMay0-9iH7owCLcBGAsYHQ/w200 -h200/Telefuturo%2BRep%25C3%25BAblica%2BDominicana.png", RPD-Telefuturo (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/3653
+#EXTINF:0 type="favoritos" channelId="-1" group="REPUBLICA DOMINICANA" logo="https://1.bp.blogspot.com/-jNaf3vHMOqA/X3PN-2QFvaI/AAAAAAAABuE/DHDATqhJC-4Oq5y9uvqo4GsvR-hcpQUQwCLcBGAsYHQ /w200-h200/Telesistema%2BRep%25C3%25BAblica%2BDominicana.png", RPD-Telesistema (X)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/53657
+#EXTINF:0 type="favoritos" channelId="-1" group="URUGUAY" logo="https://1.bp.blogspot.com/-6L57k7oliDQ/X2phWjJbVXI/AAAAAAAABcQ/uFSEO9qK9IcDzukHAtM7z6WT3XORGOAuwCLcBGAsYHQ/w200-h200/28VTV. png", URU-VTV (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/5273
+#EXTINF:0 type="favoritos" channelId="3769" name="HBO Latino (L)(1080)" group="USA-ENTERTAINMENT" logo="https://upload.wikimedia.org/wikipedia/commons/ thumb/0/0e/HBO_Latino_Logo.svg/1280px-HBO_Latino_Logo.svg.png", EE.UU.-HBO Latino (L)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177485
+#EXTINF:0 tipo="favoritos" canalId="-1" nombre="HBO Este (L)(1080)" grupo="USA-ENTRETENIMIENTO" logo="https://logos.xbots.com.mx/2412 .png", EE.UU.-HBO Este (L)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177508
+#EXTINF:0 tipo="favoritos" canalId="-1" nombre="HBO West (L)(1080)" grupo="USA-ENTRETENIMIENTO" logo="http://live.detodotvplay.com:8080/images /186fb23a33995d91ce3c2212189178c8.png", EE.UU.-HBO Oeste (L)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177510
+#EXTINF:0 type="favoritos" channelId="1208" name="A&E (MX)" group="LATINO" logo="http://images.mi.tv/channels/co_a-e-mundo-hd_m. png", A&E (MX)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27969
+#EXTINF:0 type="favoritos" channelId="-1" name="HBO 2 Oeste (L)(1080)" group="USA-ENTRETENIMIENTO" logo="https://logos.xbots.com.mx/ 2411.png", EE.UU.-HBO 2 Oeste (L)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177506
+#EXTINF:0 type="favoritos" channelId="2584" name="Familia HBO (L)(1080)" group="USA-ENTERTAINMENT" logo="https://upload.wikimedia.org/wikipedia/commons/ 3/3a/HBO_Family_logo.png", Familia EE.UU.-HBO (L)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177489
+#EXTINF:0 type="favoritos" channelId="-1" name="HBO Signature West (L)(1080)" group="USA-ENTRETENIMIENTO" logo="https://logos.xbots.com.mx/ hbosignatur.png", EE.UU.-HBO Signature West (L)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177509
+#EXTINF:0 tipo="favoritos" channelId="-1" nombre="Starz Edge West (L)(1080)" grupo="USA-ENTRETENIMIENTO" logo="https://upload.wikimedia.org/wikipedia/ commons/thumb/9/95/Starz_Edge_logo.svg/1200px-Starz_Edge_logo.svg.png", EE.UU.-Starz Edge West (L)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177517

@@ -1,0 +1,121 @@
+#EXTM3U
+#EXTINF:-1,iptvtools_1
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1,iptvtools_2
+https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
+#EXTINF:-1,iptvtools_3
+https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
+#EXTINF:-1,iptvtools_5
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
+#EXTINF:-1,iptvtools_7
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1,iptvtools_8
+https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
+#EXTINF:-1,iptvtools_9
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+#EXTINF:-1,iptvtools_10
+https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1873823699.m3u8
+#EXTINF:-1,iptvtools_11
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+#EXTINF:-1,iptvtools_12
+https://lh3.googleusercontent.com/toW8xWKbpS-28By8XvguQOg6oG0tun1oXmvmZRnY-TUiHmgsWdHeBNfoZtlbiAbdJTA
+#EXTINF:-1,iptvtools_14
+https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,iptvtools_15
+https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
+#EXTINF:-1,iptvtools_16
+https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads
+#EXTINF:-1,iptvtools_17
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1,iptvtools_19
+http://45.166.92.22:58001/play/a01r/index.m3u8
+#EXTINF:-1,iptvtools_20
+https://45e603c214f5438cae8872707b7fd678.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_GrjngoPeliculasDelOeste/playlist.m3u8?ad
+#EXTINF:-1,iptvtools_21
+https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8?ads.
+#EXTINF:-1,iptvtools_24
+https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
+#EXTINF:-1,iptvtools_26
+https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
+#EXTINF:-1,iptvtools_27
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+#EXTINF:-1,iptvtools_28
+https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/tracks-v3a1/mono.m3u8
+#EXTINF:-1,iptvtools_30
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+#EXTINF:-1,iptvtools_31
+https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
+#EXTINF:-1,iptvtools_34
+https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
+#EXTINF:-1,iptvtools_35
+https://play-lh.googleusercontent.com/RJ49IeJve4VPALBXqrqJGeAYOEoLQIZZ4zWwtJhofisng6ZYwGemZ-VXCx9ZQ-u7fw=w240-h480
+#EXTINF:-1,iptvtools_36
+https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
+#EXTINF:-1,iptvtools_38
+https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
+#EXTINF:-1,iptvtools_41
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
+#EXTINF:-1,iptvtools_42
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1,Discovery TLC
+http://167.114.156.136:25461/INFINITV/ZX89NM22/124
+#EXTINF:-1,Sony
+http://167.114.156.136:25461/INFINITV/ZX89NM22/53
+#EXTINF:-1,XXX - X1 (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/67372
+#EXTINF:-1,XXX - Vivid TV (X)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153942
+#EXTINF:-1,XXX - Ola La (X)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153948
+#EXTINF:-1,24/7 American Dad (e)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37860
+#EXTINF:-1,CINE - Comedy Central (L)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26929
+#EXTINF:-1,CINE - Golden Premiere (M)(1080) [Dual Audio]
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1474
+#EXTINF:-1,CINE - Golden Premiere 2 (X)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/69893
+#EXTINF:-1,CINE - HBO (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1040
+#EXTINF:-1,CINE - HBO Mundi (X)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/53238
+#EXTINF:-1,CINE - HBO Plus (M)(SD) [Dual Audio]
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/5340
+#EXTINF:-1,CINE - HBO Signature Dual Audio (L)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/53240
+#EXTINF:-1,CINE - HBO Xtreme (PM)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1910
+#EXTINF:-1,SYFY
+http://167.114.156.136:25461/INFINITV/ZX89NM22/80
+#EXTINF:-1,iptvtools_91
+https://1.bp.blogspot.com/-C8lxg5ulyBU/X4zXGFrpAAI/AAAAAAAAB2o/WMTKDEPlM4YWw6aOwmy_4NSc2HYgqiF6QCLcBGAsYHQ/w200-
+#EXTINF:-1,24/7 Juego de tronos (PM)(4k)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/63763
+#EXTINF:-1,iptvtools_93
+https://1.bp.blogspot.com/--LiVc0_miOo/XqEZa82HngI/AAAAAAAABzw/TRhmGmYMvRkkkHZ8-LEAaL9AQ4d8PPyWQCLcBGAsYHQ/
+#EXTINF:-1,24/7 X-Men Animated Series (e) (SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37838
+#EXTINF:-1,iptvtools_95
+https://1.bp.blogspot.com/-a88y7tT0uB0/XsLSFDmbydI/AAAAAAAAAB4/LnrzdstvBC8Qiy6AevZgVNTQrTziGi9ZACK4BGAsYHg/s320/spiderman
+#EXTINF:-1,24/7 Spider-Man Animated Series (e) (720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37857
+#EXTINF:-1,iptvtools_97
+https://1.bp.blogspot.com/-sDw3BniCroY/Xsm27MSo26I/AAAAAAAAB_c/hwr55pkqAL8Xxrh4E8xAKb06mNBeFDAqgCLcBGAsYHQ/s200/Sabrina
+#EXTINF:-1,24/7 Sabrina la bruja adolescente (e)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37788
+#EXTINF:-1,iptvtools_99
+https://1.bp.blogspot.com/-P6ZLI2dNaWU/XrUB9ngFfdI/AAAAAAAAB5w/JEAL54cUbpM-RjVGUCBi0R_UqkJkLVl_ACLcBGAsYHQ/s200
+#EXTINF:-1,24/7 El Chavo del 8 HQ (e)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37761
+#EXTINF:-1,iptvtools_101
+https://1.bp.blogspot.com/-01ImNFPjEPQ/XtktUJ3lPpI/AAAAAAAAAUs/cQG-ZQpVAfccqSeYVpiYd2gaiTYQjdc0gCK4BGAsYHg/s320
+#EXTINF:-1,24/7 DC Comics Series (e)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37874
+#EXTINF:-1,iptvtools_103
+https://1.bp.blogspot.com/-4933wgQ-TJI/XcsQ4y5ZBNI/AAAAAAAAA04/RDkBebtGXko4XekOmijiMameKGcjVDn3gCLcBGAsYHQ/s200
+#EXTINF:-1,24/7 Basado en Hechos Reales (e)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37920
+#EXTINF:-1,24/7 Bonanza (e)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37820
+#EXTINF:-1,iptvtools_107
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
